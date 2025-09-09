@@ -1,3 +1,2 @@
-# CSI-Projects
-Projects that I have done in my college career. 
-This is a project that runs in C++ and uses a spreadsheet of books and values to create a library database system. 
+# Library System
+Designed and implemented a system to manage library book circulation, enabling users to check books in and out while maintaining accurate inventory records. The application tracked book availability, borrower details, and due dates, reducing errors and improving efficiency in managing library resources. Built with a focus on data integrity, user-friendly workflows, and reliable record-keeping, the system streamlined the borrowing process for patrons and simplified administrative tasks for staff.
